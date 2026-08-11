@@ -59,3 +59,5 @@ therapeutic recommendations, or experimental validation.
 The public release is provided under the MIT License. Data providers and
 upstream software retain their respective terms; users are responsible for
 checking the license of every dataset and pretrained model they supply.
+See [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) for the dependency and
+example-data status.
