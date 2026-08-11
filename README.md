@@ -51,13 +51,13 @@ biomedical findings.
 ## Scope and attribution
 
 This project is a computational research workflow. Candidate scores represent
-ranked evidence for downstream investigation; they are not clinical diagnoses,
-therapeutic recommendations, or experimental validation.
+ranked evidence for downstream investigation.
 
 ## License
 
 The public release is provided under the MIT License. Data providers and
 upstream software retain their respective terms; users are responsible for
 checking the license of every dataset and pretrained model they supply.
+<<<<<<< HEAD
 See [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) for the dependency and
 example-data status.
