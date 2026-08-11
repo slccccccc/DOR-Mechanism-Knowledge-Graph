@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+outputs/
+checkpoints/
+models/
+*.xlsx
+*.xls
+*.pkl
+*.pt
+*.pth
+*.npz
